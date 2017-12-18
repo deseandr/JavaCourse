@@ -33,7 +33,7 @@ public class ArrayVector {
     public int getSize() {
         return dlina;
     }
-    
+
 
     public double getElement(int index) {
 
